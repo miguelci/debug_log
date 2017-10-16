@@ -1,0 +1,2 @@
+2017-10-16 09:41:55	Total:351 vacancies	Inserted:95	Skipped:178	Updated:78
+2017-09-11 13:40:40	Total:334 vacancies	Inserted:0	Skipped:334	Updated:0
